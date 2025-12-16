@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings (optional but recommended)
+.vscode/
+
+# ML artifacts (optional – see note below)
+baseline_model.pkl
+daily_data.csv
+
+
